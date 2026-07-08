@@ -1,0 +1,4 @@
+Hi, my name is M.Talha atif. I'm pursuing bachelors in computers science from umt, currently in last year.
+Regarding tech side, in past I've worked on android projects specifically small scale projects like integrating
+rest apis in android, storing data in local and remote db like firebase. Currently, I'm working on 
+spring boot and making personal projects in it.
